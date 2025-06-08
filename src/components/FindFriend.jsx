@@ -42,7 +42,10 @@ function Find()
             </div>
             <hr></hr>
             <List/>
-            <button className='backButton' onClick={()=>setCurrentPage('main')}>Back</button>
+            <button className='backButton' onClick={()=>setCurrentPage('main')}>
+                <i className="material-icons" style={{fontSize:'24px',marginInline:'10px'}}>arrow_back</i>
+                <div class='label'>Back</div>
+            </button>
         </div>
     );
     }
