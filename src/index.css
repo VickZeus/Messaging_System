@@ -27,7 +27,7 @@ div
 .heading 
 {
     font-weight:600;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
     animation:jump 5s infinite;
 }
 
@@ -97,7 +97,7 @@ div
     border-radius:25px;
     
     font-size: 3vh;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
     box-shadow:1px 1px 10px rgb(132, 158, 237);
 }
 
@@ -120,7 +120,7 @@ div
     border-radius:25px;
     
     font-size: 3vw;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
     box-shadow:1px 1px 10px rgb(132, 158, 237);
     }
 }
