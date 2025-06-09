@@ -27,7 +27,7 @@ div
 .heading 
 {
     font-weight:600;
-    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-family: "Kirang Haerang", system-ui;
     animation:jump 5s infinite;
 }
 
@@ -35,32 +35,32 @@ div
 {
     0%
     {
-        font-size: 9vmax;
+        font-size: 12vmax;
         transform:rotateZ(0deg);
         text-shadow: 2px 2px 10px rgb(40, 85, 234);
     }
     25%
     {
-        font-size: 8vmax;
+        font-size: 10vmax;
         transform:rotateZ(0deg);
         text-shadow: 2px 2px 10px rgb(40, 192, 234);
 
     }
     50%
     {
-        font-size: 7vmax;
+        font-size: 9vmax;
         transform:rotateZ(0deg);
         text-shadow: 2px 2px 10px rgb(40, 234, 85);
     }
     75%
     {
-        font-size: 8vmax;
+        font-size: 10vmax;
         transform:rotateZ(0deg);
         text-shadow: 2px 2px 10px rgb(224, 234, 40);
     }
     100%
     {
-        font-size: 9vmax;
+        font-size: 12vmax;
         transform:rotateZ(360deg);
         text-shadow: 2px 2px 10px rgb(179, 40, 234);
     }
@@ -97,7 +97,7 @@ div
     border-radius:25px;
     
     font-size: 3vh;
-    font-family:'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    font-family: "Lexend", sans-serif;
     box-shadow:1px 1px 10px rgb(132, 158, 237);
 }
 
@@ -120,7 +120,7 @@ div
     border-radius:25px;
     
     font-size: 3vw;
-    font-family:'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+    font-family: "Lexend", sans-serif;
     box-shadow:1px 1px 10px rgb(132, 158, 237);
     }
 }
